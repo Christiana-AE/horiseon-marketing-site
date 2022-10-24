@@ -11,3 +11,5 @@ N/A
 N/A
 
 ## Link to Deployed project
+https://christiana-ae.github.io/horiseon-marketing-site/
+
